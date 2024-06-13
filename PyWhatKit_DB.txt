@@ -1,0 +1,16 @@
+Date: 29/5/2024
+Time: 15:30
+Phone Number: +2349164702871
+Message: Hi, from Factorial!
+--------------------
+Date: 29/5/2024
+Time: 15:40
+Phone Number: +2349164702871
+Message: Hi, from Factorial!
+----
+----------------
+
+docker network disconnect whatsapp-bot-master_gridnetwork whatsapp-bot-master-ChromeService-1
+docker network connect whatsapp-bot-master_no-internet whatsapp-bot-master-ChromeService-1
+
+docker network connect whatsapp-bot-master_gridnetwork whatsapp-bot-master-ChromeService-1
